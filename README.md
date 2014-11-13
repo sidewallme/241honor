@@ -1,11 +1,12 @@
 241honor
 ========
-This is our CS 241 HONOR Project
+<b>This is our CS 241 HONOR Project</b> 
+
 [Collaborators]  
 <b>Jiarui Xu</b>  
-David Huang  
+<b>David Huang</b>  
 
-[Work Logs] (https://github.com/sidewallme/241honor/wiki)
+<b>[Work Logs]</b> (https://github.com/sidewallme/241honor/wiki)
 
 Description:
 
