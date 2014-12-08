@@ -10,12 +10,14 @@
 
 Description:
 
-An Android app that could be used as a remote control of computer
+An Android app that could identify patterns like Handwriting Digits
+
+Sycronization:
+
+Uses Multi-threaded Artificial Neural Network to run the propagation algorithms.  
 
 Possible Usage:  
-1. PPT controller   
-2. Digit Writing with identifier   
-3. Mouse   
-4. Class communication   
-5. still thinking ...   
-
+1. Signature Recognition  
+2. Void Recognition  
+3. Face Recognition  
+(will be shown in PPT and video demo)  
