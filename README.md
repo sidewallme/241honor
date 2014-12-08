@@ -1,8 +1,8 @@
-241honor
+CS 241 Honor Project
 ========
-<b>This is our CS 241 HONOR Project</b> 
+<b>This is Team "ANT" page</b> 
 
-<b>[Collaborators]</b> Jiarui Xu(jxu57)  David Huang(lhuang53)  
+<b>[Collaborators]</b> Jiarui Xu(jxu57) | David Huang(lhuang53)  
 <b>[Work Logs]</b> https://github.com/sidewallme/241honor/wiki  
 <b>[Presentation]</b> https://github.com/sidewallme/241honor/wiki  
 <b>[Video Demo]</b> https://github.com/sidewallme/241honor/wiki  
