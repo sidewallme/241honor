@@ -6,7 +6,9 @@
 <b>Jiarui Xu</b>  
 <b>David Huang</b>  
 
-<b>[Work Logs]</b> (https://github.com/sidewallme/241honor/wiki)
+<b>[Work Logs]</b> (https://github.com/sidewallme/241honor/wiki)  
+<b>[Presentation]</b> (https://github.com/sidewallme/241honor/wiki)  
+<b>[Video Demo]</b> (https://github.com/sidewallme/241honor/wiki)  
 
 Description:
 
