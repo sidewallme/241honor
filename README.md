@@ -4,7 +4,7 @@
 
 <b>[Collaborators]</b> Jiarui Xu(jxu57)  David Huang(lhuang53)  
 <b>[Work Logs]</b> https://github.com/sidewallme/241honor/wiki  
-<b>[Presentation]</b> (https://github.com/sidewallme/241honor/wiki  
+<b>[Presentation]</b> https://github.com/sidewallme/241honor/wiki  
 <b>[Video Demo]</b> https://github.com/sidewallme/241honor/wiki  
 
 Description:
