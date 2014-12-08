@@ -11,7 +11,7 @@ Description:
 
 An Android app that could identify patterns like Handwriting Digits
 
-Sycronization:
+Synchronization:
 
 Uses Multi-threaded Artificial Neural Network to run the propagation algorithms.  
 
